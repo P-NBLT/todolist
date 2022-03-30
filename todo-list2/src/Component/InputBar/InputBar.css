@@ -1,0 +1,61 @@
+.field {
+    margin-left: 32% ;
+    margin-right: 32%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 1px solid grey;
+    border-radius: 10px;
+    background-color: #5d5c61;   
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+}
+
+.addButton {
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(103, 176, 186);
+}
+
+.clearButton {
+    background-color: rgb(220, 129, 68);
+}
+
+.fullList {
+    
+    width: 300px;
+    margin-left: 110px;
+}
+
+
+.listTitle{
+ 
+ margin-bottom: 8px;
+}
+
+.todolist {
+    display: flex;
+    justify-content: left;
+    color: whitesmoke;
+ 
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.todolistDone {
+    display: flex;
+    justify-content: left;
+    color: whitesmoke;
+    
+    margin-right: auto;
+    margin-top: 5px;    
+}
+
+.tasks {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
